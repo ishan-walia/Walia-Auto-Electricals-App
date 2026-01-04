@@ -55,7 +55,13 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 - On-spot battery replacement  
 - Car & bike roadside help  
 - Available in Ner Chowk & nearby areas
-  
+
+  ## 💼 Commercial Services
+
+- Shop & Office UPS Installation  
+- Factory Inverter Backup Systems  
+- Hospital Power Backup  
+- School & Institute UPS Setup  
 ## 📍 Contact Us  
 
 📌 **Walia Auto Electricals**  
