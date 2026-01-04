@@ -49,6 +49,13 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 | Monday – Saturday | 9:00 AM – 7:30 PM |
 | Sunday | 10:00 AM – 3:00 PM |
 
+## 🚗 On-Road Emergency Battery Service
+
+- Dead battery jump start  
+- On-spot battery replacement  
+- Car & bike roadside help  
+- Available in Ner Chowk & nearby areas
+  
 ## 📍 Contact Us  
 
 📌 **Walia Auto Electricals**  
