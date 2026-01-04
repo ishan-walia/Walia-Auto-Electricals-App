@@ -42,6 +42,13 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 
 ---
 
+## 🕒 Business Hours
+
+| Day | Timing |
+|----|------|
+| Monday – Saturday | 9:00 AM – 7:30 PM |
+| Sunday | 10:00 AM – 3:00 PM |
+
 ## 📍 Contact Us  
 
 📌 **Walia Auto Electricals**  
