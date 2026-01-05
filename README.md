@@ -41,6 +41,12 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 | **Spare Parts 🔧** | Electrical spares & accessories |
 
 ---
+## 🛡 Warranty & Guarantee
+
+- Genuine company warranty  
+- Free installation  
+- Service guarantee provided  
+- Proper bill & invoice  
 
 ## 🕒 Business Hours
 
