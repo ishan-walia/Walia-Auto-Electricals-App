@@ -79,3 +79,11 @@ All rights reserved © 2025
 ## 👤 Developer 
 -Walia Creations
 ✨ *Made with ❤️ by Walia Auto Electricals Team*
+
+
+## ⭐ Customer Reviews
+
+- ⭐⭐⭐⭐⭐ “Best battery shop in Ner Chowk”  
+- ⭐⭐⭐⭐⭐ “Original Exide & Amaron dealer”  
+- ⭐⭐⭐⭐⭐ “Very polite staff and fast service”  
+
