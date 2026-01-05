@@ -80,6 +80,10 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 📌 **Walia Auto Electricals**  
 ![Location](https://img.shields.io/badge/Location-OfficeWaliaComplex%2C%20NerChowkMandi(H.P)175008-red?style=flat&logo=google-maps)<br>
 📞 Phone: +91-9857701615 <br>
+## 🗺 Find Us on Google Maps
+
+👉 [Open Shop Location](https://maps.google.com/?q=Walia+Auto+Electricals+Ner+Chowk)
+
 📧 Email: waliaexidebatteryshowroom@gmail.com
 
 ---
