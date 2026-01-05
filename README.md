@@ -55,6 +55,13 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 | Monday – Saturday | 9:00 AM – 7:30 PM |
 | Sunday | 10:00 AM – 3:00 PM |
 
+## ♻️ Battery Recycling Program
+
+- Old battery exchange available  
+- Pollution free disposal  
+- Eco friendly recycling  
+- Best exchange value  
+
 ## 🚗 On-Road Emergency Battery Service
 
 - Dead battery jump start  
