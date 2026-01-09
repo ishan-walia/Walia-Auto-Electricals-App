@@ -31,6 +31,12 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 ✅ Customer-first support & service guarantee  
 
 ---
+'## 👨‍🔧 Our Expert Technicians
+
+- Trained & experienced staff  
+- Fast fault detection  
+- Safe wiring & installation  
+- Proper testing before delivery  
 ## 🎁 Special Offers
 
 - Free battery check-up  
