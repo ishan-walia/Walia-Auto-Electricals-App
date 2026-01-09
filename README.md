@@ -31,6 +31,11 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 ✅ Customer-first support & service guarantee  
 
 ---
+## 🤝 Dealership & Bulk Orders
+
+- Dealer inquiry welcome  
+- Bulk orders for schools, hospitals & offices  
+- Contractor partnership available  
 ## 🌐 Online Presence
 
 - Google Business Profile  
