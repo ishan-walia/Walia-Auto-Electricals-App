@@ -82,7 +82,11 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 - Free installation  
 - Service guarantee provided  
 - Proper bill & invoice  
+## 📈 Coming Soon
 
+- Online order facility  
+- Website launching soon  
+- Mobile service van 
 ## 🕒 Business Hours
 
 | Day | Timing |
