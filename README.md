@@ -31,6 +31,11 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 ✅ Customer-first support & service guarantee  
 
 ---
+## 🌐 Online Presence
+
+- Google Business Profile  
+- WhatsApp Support  
+- Home delivery on call  
 ## 🧯 Battery Safety Tips
 
 - Do not overcharge battery  
