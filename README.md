@@ -24,7 +24,13 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 ✅ Customer-first support & service guarantee  
 
 ---
+## 🎁 Special Offers
 
+- Free battery check-up  
+- Extra exchange value on old batteries  
+- Free inverter installation  
+- Free home visit in Ner Chowk area  
+- Seasonal discount available  
 ## 📸 Screenshots  
 
 *(Replace images inside `assets/` folder with your real photos)*  
