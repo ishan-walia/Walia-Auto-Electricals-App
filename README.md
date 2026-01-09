@@ -46,8 +46,9 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 - Do not overcharge battery  
 - Keep battery terminals clean  
 - Avoid water leakage on battery  
-- Call us if battery heats  
-'## 👨‍🔧 Our Expert Technicians
+- Call us if battery heats
+
+## 👨‍🔧 Our Expert Technicians
 
 - Trained & experienced staff  
 - Fast fault detection  
