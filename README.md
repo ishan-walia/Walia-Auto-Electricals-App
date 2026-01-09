@@ -31,6 +31,12 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 ✅ Customer-first support & service guarantee  
 
 ---
+## 🧯 Battery Safety Tips
+
+- Do not overcharge battery  
+- Keep battery terminals clean  
+- Avoid water leakage on battery  
+- Call us if battery heats  
 '## 👨‍🔧 Our Expert Technicians
 
 - Trained & experienced staff  
