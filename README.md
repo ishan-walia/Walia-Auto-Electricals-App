@@ -49,7 +49,12 @@ We provide **sales, service, and repair** for both **domestic and commercial nee
 *(Replace images inside `assets/` folder with your real photos)*  
 
 ---
+## 💳 Payment Options
 
+- Cash  
+- UPI (PhonePe, GPay, Paytm)  
+- Debit & Credit Cards  
+- GST Bill Available  
 ## 📂 Our Products  
 
 | Category | Products |
