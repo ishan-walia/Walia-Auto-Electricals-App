@@ -15,6 +15,13 @@
 We provide **sales, service, and repair** for both **domestic and commercial needs**.  
 
 ---
+## 🧠 Why Our Batteries Are Better
+
+- Long life performance  
+- Fast charging  
+- Low maintenance  
+- Strong backup time  
+- Suitable for Himachal cold weather  
 
 ## 🚀 Why Choose Us?  
 ✅ Authorized dealer of **Exide & Amaron**  
