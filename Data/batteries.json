@@ -5,13 +5,18 @@
     "image": "https://raw.githubusercontent.com/ishan-walia/Walia-Auto-Electricals-App/main/Photo/battery_agmi.png"
   },
   {
-    "name": "Amaron Car Battery",
-    "price": "₹5,500",
+    "name":"EXIDE EPIQ (EPIQ35L) ",
+    "price": "₹ 5583",
     "image": "https://raw.githubusercontent.com/ishan-walia/Walia-Auto-Electricals-App/main/Photo/battery1.png"
   },
   {
-    "name": "Amaron Car Battery",
-    "price": "₹5,500",
-    "image": "https://raw.githubusercontent.com/ishan-walia/Walia-Auto-Electricals-App/main/Photo/battery1.png"
+    "name": "EXIDE EPIQ (EPIQ35R)",
+    "price": "₹5583",
+    "image": "https://raw.githubusercontent.com/ishan-walia/Walia-Auto-Electricals-App/main/Photo/battery2.png"
+  }
+   {
+    "name": "EXIDE EPIQ (EPIQ35R)",
+    "price": "₹5583",
+    "image": "https://raw.githubusercontent.com/ishan-walia/Walia-Auto-Electricals-App/main/Photo/battery10.png"
   }
 ]
